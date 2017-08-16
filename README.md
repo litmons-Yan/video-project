@@ -1,2 +1,2 @@
 # vue-project
-Amy's vue project
+Amy's vue practice project.
